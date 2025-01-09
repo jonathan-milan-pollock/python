@@ -30,4 +30,4 @@ source ~/.venv/bin/activate
 
 - put the key into the GitHub account (Personal Account > Settings > SSH and GPG keys)
   
-> clone [URL]
+> git clone [SSH_URL]

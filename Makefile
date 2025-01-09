@@ -11,4 +11,4 @@ format:
 test:
 	@python -m pytest -vv --cov=hello ./src/test_hello.py
 
-all: lint test 
+all: install lint test 
