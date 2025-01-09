@@ -1,0 +1,12 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-vscode.makefile-tools",
+                "shd101wyy.markdown-preview-enhanced",
+                "yzhang.markdown-all-in-one"
+            ]
+        }
+    }
+}
