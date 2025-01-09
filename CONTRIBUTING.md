@@ -18,3 +18,9 @@ source ~/.venv/bin/activate
 
 - freeze requirements
 > pip freeze
+
+
+## Azure Cloud Shell
+
+> python3 -m venv ~/.venv
+> source ~/.venv
