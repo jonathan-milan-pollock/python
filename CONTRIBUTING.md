@@ -23,7 +23,7 @@ source ~/.venv/bin/activate
 ## Azure Cloud Shell
 
 > python3 -m venv ~/.venv
-> source ~/.venv
+> source ~/.venv/bin/activate
 > ssh-keygen -t rsa
 > pwd
 > cat /home/jpollock/.ssh/id_rsa.pub
