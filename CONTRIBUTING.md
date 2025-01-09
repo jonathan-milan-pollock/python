@@ -28,6 +28,6 @@ source ~/.venv/bin/activate
 > pwd
 > cat /home/jpollock/.ssh/id_rsa.pub
 
-- put the key into the GitHub account 
+- put the key into the GitHub account (Personal Account > Settings > SSH and GPG keys)
   
 > clone [URL]
