@@ -24,3 +24,10 @@ source ~/.venv/bin/activate
 
 > python3 -m venv ~/.venv
 > source ~/.venv
+> ssh-keygen -t rsa
+> pwd
+> cat /home/jpollock/.ssh/id_rsa.pub
+
+- put the key into the GitHub account 
+  
+> clone [URL]
