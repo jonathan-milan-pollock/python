@@ -1,6 +1,4 @@
-def say_hello():
-    return "Hello, World!"
+def add(x, y):
+    return x + y
 
-
-def say_goodbye():
-    return "Goodbye, World!"
+print(add(1, 1))

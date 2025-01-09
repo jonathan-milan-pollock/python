@@ -2,7 +2,6 @@
 
 ## ENV SETUP
 
-> which virtualenv
 > virtualenv ~/.venv
 > source ~/.venv/bin/activate
 

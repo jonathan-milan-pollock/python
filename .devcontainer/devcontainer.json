@@ -2,6 +2,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
+                "GitHub.copilot",
                 "ms-python.python",
                 "ms-vscode.makefile-tools",
                 "shd101wyy.markdown-preview-enhanced",
